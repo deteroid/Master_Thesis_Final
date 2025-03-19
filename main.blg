@@ -19,7 +19,6 @@ Warning--entry type for "bergqvist2013" isn't style-file defined
 --line 254 of file Ref/References.bib
 Warning--entry type for "kohonen2022" isn't style-file defined
 --line 263 of file Ref/References.bib
-Warning--I didn't find a database entry for "yilmaz2023"
 Warning--empty journal in oracle_erp
 Warning--empty journal in software_suggest_erp
 Warning--empty journal in softwareconnect
@@ -31,7 +30,7 @@ Warning--empty journal in medium
 Warning--empty publisher in dulcika
 You've used 71 entries,
             1791 wiz_defined-function locations,
-            773 strings with 13972 characters,
+            772 strings with 13962 characters,
 and the built_in function-call counts, 11300 in all, are:
 = -- 1051
 > -- 360
@@ -70,4 +69,4 @@ warning$ -- 9
 while$ -- 95
 width$ -- 73
 write$ -- 846
-(There were 12 warnings)
+(There were 11 warnings)
