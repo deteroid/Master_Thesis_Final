@@ -85,7 +85,7 @@
 \contentsline {subsubsection}{Comparison of Leading Middleware Solutions}{19}{section*.65}%
 \contentsline {subsubsection}{Role of iPaaS (Integration PaaS)}{19}{section*.67}%
 \contentsline {subsubsection}{Choosing the Right Middleware for SAP-Salesforce Integration}{19}{section*.68}%
-\contentsline {section}{\numberline {2.3}SAP BTP (BTP) as Middleware}{20}{section.2.3}%
+\contentsline {section}{\numberline {2.3}SAP Business Technology Platform (BTP) as Middleware}{20}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Role of SAP BTP in Integration}{20}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Pre-Built Connectors and Data Transformation Tools}{20}{subsection.2.3.2}%
 \contentsline {subsubsection}{Pre-Built Connectors}{20}{section*.69}%
