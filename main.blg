@@ -16,9 +16,9 @@ The style file: unsrt.bst
 A level-1 auxiliary file: Appendix/appendix.aux
 Database file #1: Ref/References.bib
 Warning--entry type for "bergqvist2013" isn't style-file defined
---line 254 of file Ref/References.bib
+--line 507 of file Ref/References.bib
 Warning--entry type for "kohonen2022" isn't style-file defined
---line 263 of file Ref/References.bib
+--line 525 of file Ref/References.bib
 Warning--empty journal in oracle_erp
 Warning--empty journal in software_suggest_erp
 Warning--empty journal in softwareconnect
