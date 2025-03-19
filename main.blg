@@ -1,0 +1,73 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: Title/titlepage.aux
+A level-1 auxiliary file: Front/Abstract.aux
+A level-1 auxiliary file: Front/Acknowledgement.aux
+A level-1 auxiliary file: Front/Acronyms.aux
+A level-1 auxiliary file: Front/Symbols.aux
+A level-1 auxiliary file: Chapter1_Introduction/Chapter1.aux
+A level-1 auxiliary file: Chapter2/Chapter2.aux
+A level-1 auxiliary file: Chapter3/Chapter3.aux
+A level-1 auxiliary file: Chapter4/Chapter4.aux
+A level-1 auxiliary file: Chapter5/Chapter5.aux
+A level-1 auxiliary file: Chapter6/Chapter6.aux
+The style file: unsrt.bst
+A level-1 auxiliary file: Appendix/appendix.aux
+Database file #1: Ref/References.bib
+Warning--entry type for "bergqvist2013" isn't style-file defined
+--line 254 of file Ref/References.bib
+Warning--entry type for "kohonen2022" isn't style-file defined
+--line 263 of file Ref/References.bib
+Warning--I didn't find a database entry for "yilmaz2023"
+Warning--empty journal in oracle_erp
+Warning--empty journal in software_suggest_erp
+Warning--empty journal in softwareconnect
+Warning--empty journal in geeksforgeeks
+Warning--empty journal in ptss
+Warning--empty journal in vofox
+Warning--empty journal in quota
+Warning--empty journal in medium
+Warning--empty publisher in dulcika
+You've used 71 entries,
+            1791 wiz_defined-function locations,
+            773 strings with 13972 characters,
+and the built_in function-call counts, 11300 in all, are:
+= -- 1051
+> -- 360
+< -- 1
++ -- 163
+- -- 92
+* -- 347
+:= -- 1842
+add.period$ -- 276
+call.type$ -- 71
+change.case$ -- 65
+chr.to.int$ -- 0
+cite$ -- 80
+duplicate$ -- 489
+empty$ -- 1323
+format.name$ -- 92
+if$ -- 2606
+int.to.chr$ -- 0
+int.to.str$ -- 71
+missing$ -- 38
+newline$ -- 420
+num.names$ -- 71
+pop$ -- 331
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 177
+stack$ -- 0
+substring$ -- 239
+swap$ -- 70
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 9
+while$ -- 95
+width$ -- 73
+write$ -- 846
+(There were 12 warnings)
