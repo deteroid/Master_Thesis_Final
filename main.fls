@@ -752,12 +752,12 @@ INPUT c:/texlive/2025/texmf-dist/tex/latex/psnfss/omspcr.fd
 INPUT c:/texlive/2025/texmf-dist/tex/latex/psnfss/omspcr.fd
 INPUT c:/texlive/2025/texmf-dist/tex/latex/psnfss/omspcr.fd
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT ./Appendix/images/Fail_QR.png
-INPUT ./Appendix/images/Fail_QR.png
-INPUT ./Appendix/images/Fail_QR.png
-INPUT ./Appendix/images/Fail_QR.png
-INPUT ./Appendix/images/Fail_QR.png
 INPUT c:/texlive/2025/texmf-dist/fonts/vf/adobe/courier/pcrr8c.vf
+INPUT ./Appendix/images/Fail_QR.png
+INPUT ./Appendix/images/Fail_QR.png
+INPUT ./Appendix/images/Fail_QR.png
+INPUT ./Appendix/images/Fail_QR.png
+INPUT ./Appendix/images/Fail_QR.png
 INPUT ./Appendix/images/Success_QR.png
 INPUT ./Appendix/images/Success_QR.png
 INPUT ./Appendix/images/Success_QR.png

@@ -1,49 +1,49 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces SAP S/4HANA and Salesforce Market Share and Revenue Growth}}{27}{figure.caption.72}%
+\contentsline {figure}{\numberline {2.1}{\ignorespaces SAP S/4HANA and Salesforce Market Share and Revenue Growth}}{31}{figure.caption.72}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Overview of System Architecture}}{39}{figure.caption.99}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces S4 Hana Home Page}}{40}{figure.caption.101}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Integration Suite Home Page}}{41}{figure.caption.102}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Salesforece Home Page}}{41}{figure.caption.103}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces SAP Cloud Platform Integration (CPI) Tenant Details:}}{42}{figure.caption.105}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces S4 HANA Communication user}}{45}{figure.caption.108}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Salesforce Setup Menu}}{49}{figure.caption.115}%
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Creating a New Connected App in Salesforce}}{49}{figure.caption.116}%
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Salesforce Connected App Configuration}}{50}{figure.caption.117}%
-\contentsline {figure}{\numberline {4.10}{\ignorespaces OAuth Settings for Salesforce Connected App}}{50}{figure.caption.118}%
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Salesforce Object Manager}}{51}{figure.caption.121}%
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Reference Field Details}}{52}{figure.caption.122}%
-\contentsline {figure}{\numberline {4.13}{\ignorespaces SAP BTP Integration Flow for Account Replication}}{52}{figure.caption.123}%
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Reference Field}}{55}{figure.caption.129}%
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Keys and Certificates in SAP Integration Suite}}{55}{figure.caption.131}%
-\contentsline {figure}{\numberline {4.16}{\ignorespaces User Credentials in SAP Integration Suite}}{55}{figure.caption.132}%
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Configure the iFlow with Configure button}}{56}{figure.caption.135}%
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Timer Configuration in SAP Integration Suite}}{57}{figure.caption.136}%
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Receiver Configuration for SAP S/4HANA in SAP Integration Suite:}}{57}{figure.caption.137}%
-\contentsline {figure}{\numberline {4.20}{\ignorespaces Receiver Configuration for Salesforce in SAP Integration Suite}}{58}{figure.caption.138}%
-\contentsline {figure}{\numberline {4.21}{\ignorespaces Additional Configuration Settings in SAP Integration Suite}}{58}{figure.caption.139}%
-\contentsline {figure}{\numberline {4.22}{\ignorespaces Deploying the Integration Artifact in SAP Integration Suite}}{59}{figure.caption.140}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Overview of System Architecture}}{45}{figure.caption.99}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces S4 Hana Home Page}}{46}{figure.caption.101}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Integration Suite Home Page}}{47}{figure.caption.102}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Salesforece Home Page}}{47}{figure.caption.103}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces SAP Cloud Platform Integration (CPI) Tenant Details:}}{48}{figure.caption.105}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces S4 HANA Communication user}}{52}{figure.caption.108}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Salesforce Setup Menu}}{56}{figure.caption.115}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Creating a New Connected App in Salesforce}}{57}{figure.caption.116}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Salesforce Connected App Configuration}}{57}{figure.caption.117}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces OAuth Settings for Salesforce Connected App}}{58}{figure.caption.118}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Salesforce Object Manager}}{59}{figure.caption.121}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Reference Field Details}}{59}{figure.caption.122}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces SAP BTP Integration Flow for Account Replication}}{60}{figure.caption.123}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Reference Field}}{62}{figure.caption.129}%
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Keys and Certificates in SAP Integration Suite}}{63}{figure.caption.131}%
+\contentsline {figure}{\numberline {4.16}{\ignorespaces User Credentials in SAP Integration Suite}}{63}{figure.caption.132}%
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Configure the iFlow with Configure button}}{64}{figure.caption.135}%
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Timer Configuration in SAP Integration Suite}}{65}{figure.caption.136}%
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Receiver Configuration for SAP S/4HANA in SAP Integration Suite:}}{65}{figure.caption.137}%
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Receiver Configuration for Salesforce in SAP Integration Suite}}{66}{figure.caption.138}%
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Additional Configuration Settings in SAP Integration Suite}}{66}{figure.caption.139}%
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Deploying the Integration Artifact in SAP Integration Suite}}{67}{figure.caption.140}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Maintaining Business Partner in SAP S/4HANA}}{61}{figure.caption.142}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Creating a Business Partner in SAP S/4HANA}}{61}{figure.caption.144}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Displaying Business Partner in SAP S/4HANA}}{62}{figure.caption.146}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Integration Flow for Replicating Accounts from SAP S/4HANA to Salesforce}}{63}{figure.caption.150}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Monitoring Message Processing in SAP BTP Integration Suite}}{64}{figure.caption.151}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Message Monitoring in SAP BTP Integration Suite}}{64}{figure.caption.152}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Message Processing Log in SAP BTP Integration Suite}}{65}{figure.caption.153}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Salesforce Account List View}}{66}{figure.caption.156}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Salesforce Account Details Page}}{66}{figure.caption.157}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces OAuth2 Client Credentials Configuration in SAP Integration Suite}}{68}{figure.caption.160}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Message Processing Run in SAP BTP Integration Suite}}{69}{figure.caption.161}%
-\contentsline {figure}{\numberline {5.12}{\ignorespaces Error Log in SAP BTP Integration Suite}}{69}{figure.caption.162}%
-\contentsline {figure}{\numberline {5.13}{\ignorespaces Mapping Configuration in SAP BTP Integration Suite}}{70}{figure.caption.163}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Maintaining Business Partner in SAP S/4HANA}}{69}{figure.caption.142}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Creating a Business Partner in SAP S/4HANA}}{69}{figure.caption.144}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Displaying Business Partner in SAP S/4HANA}}{70}{figure.caption.146}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Integration Flow for Replicating Accounts from SAP S/4HANA to Salesforce}}{71}{figure.caption.150}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Monitoring Message Processing in SAP BTP Integration Suite}}{72}{figure.caption.151}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Message Monitoring in SAP BTP Integration Suite}}{72}{figure.caption.152}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Message Processing Log in SAP BTP Integration Suite}}{73}{figure.caption.153}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Salesforce Account List View}}{74}{figure.caption.156}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Salesforce Account Details Page}}{74}{figure.caption.157}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces OAuth2 Client Credentials Configuration in SAP Integration Suite}}{76}{figure.caption.160}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Message Processing Run in SAP BTP Integration Suite}}{77}{figure.caption.161}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Error Log in SAP BTP Integration Suite}}{77}{figure.caption.162}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Mapping Configuration in SAP BTP Integration Suite}}{79}{figure.caption.163}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {7.1}{\ignorespaces SAP S/4HANA Endpoint for Fetching Newly Created Business Partners}}{86}{figure.caption.178}%
-\contentsline {figure}{\numberline {7.2}{\ignorespaces API Query Configuration for Fetching All Business Partners in SAP S/4HANA}}{87}{figure.caption.180}%
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Salesforce Receiver API Configuration in SAP BTP}}{88}{figure.caption.182}%
-\contentsline {figure}{\numberline {7.4}{\ignorespaces Salesforce Processing Configuration for Upserting Business Partners}}{89}{figure.caption.184}%
-\contentsline {figure}{\numberline {7.5}{\ignorespaces Scan to watch: Failed Account Creation to Salesforce}}{90}{figure.caption.185}%
-\contentsline {figure}{\numberline {7.6}{\ignorespaces Scan to watch: Successful Account Creation to Salesforce}}{90}{figure.caption.186}%
+\contentsline {figure}{\numberline {7.1}{\ignorespaces SAP S/4HANA Endpoint for Fetching Newly Created Business Partners}}{97}{figure.caption.178}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces API Query Configuration for Fetching All Business Partners in SAP S/4HANA}}{98}{figure.caption.180}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Salesforce Receiver API Configuration in SAP BTP}}{99}{figure.caption.182}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Salesforce Processing Configuration for Upserting Business Partners}}{100}{figure.caption.184}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces Scan to watch: Failed Account Creation to Salesforce}}{101}{figure.caption.185}%
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Scan to watch: Successful Account Creation to Salesforce}}{102}{figure.caption.186}%
