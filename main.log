@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.17)  20 MAR 2025 11:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.17)  20 MAR 2025 17:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -702,20 +702,19 @@ LaTeX Font Info:    ... okay on input line 30.
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* bindingoffset: 28.45274pt
 * modes: 
-* h-part:(L,W,R)=(113.81102pt, 400.89935pt, 71.13188pt)
-* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=400.89935pt
-* \textheight=652.70622pt
-* \oddsidemargin=69.99377pt
-* \evensidemargin=41.54103pt
-* \topmargin=-38.1381pt
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -817,13 +816,13 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 
 ]
 
-[2]
-
-[3])
+[2])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
 
+
+[3]
 
 [4]
 \openout2 = `Front/Abstract.aux'.
@@ -890,7 +889,7 @@ Chapter 1.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.19 
+l.21 
       [1
 
 
@@ -920,130 +919,108 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 
 [11]
 
-[12]
-
-[13]
-
-[14])
+[12])
 \openout2 = `Chapter2/Chapter2.aux'.
 
  (./Chapter2/Chapter2.tex
 Chapter 2.
 
 
-[15
+[13
 
 
 
 
 ]
-
-[16]
 Underfull \hbox (badness 1067) in paragraph at lines 65--65
 \OT1/ptm/m/n/10.95 CRM, Sup-ply Chain Man-age-
  []
 
 
-Overfull \hbox (51.09196pt too wide) in paragraph at lines 59--70
- [][] 
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+
+[14]
+
+[15]
+
+[16]
 
 [17]
 
 [18]
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+[]|\OT1/ptm/m/n/10 Pre-built con-nec-tors,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\OT1/ptm/m/n/10 API man-age-ment,
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 191--191
+\OT1/ptm/m/n/10 event-driven ar-chi-tec-
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 191--191
+\OT1/ptm/m/n/10 cloud-native, sup-ports
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+[]|\OT1/ptm/m/n/10 Limited flex-i-bil-ity
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 191--191
+\OT1/ptm/m/n/10 for non-SAP in-te-gra-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+[]|\OT1/ptm/m/n/10 API-led con-nec-tiv-ity,
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 191--191
+\OT1/ptm/m/n/10 event-driven ar-chi-tec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\OT1/ptm/m/n/10 ture, mi-croser-vices
+ []
+
+
+Underfull \hbox (badness 5302) in paragraph at lines 191--191
+[]|\OT1/ptm/m/n/10 Strong API man-age-
+ []
+
+
+Underfull \hbox (badness 7291) in paragraph at lines 191--191
+\OT1/ptm/m/n/10 re-quires ex-per-tise in
+ []
+
+
+Underfull \hbox (badness 3724) in paragraph at lines 191--191
+[]|\OT1/ptm/m/n/10 Low-code in-te-gra-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--191
+\OT1/ptm/m/n/10 cess-ing, batch-heavy
+ []
+
+
 
 [19]
 
 [20]
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-[]|\OT1/ptm/m/n/10 Pre-built con-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/ptm/m/n/10 nec-tors, API
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/ptm/m/n/10 man-age-ment,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/ptm/m/n/10 sup-ports hy-brid
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-[]|\OT1/ptm/m/n/10 API-led con-nec-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/ptm/m/n/10 ar-chi-tec-ture,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/ptm/m/n/10 mi-croser-vices
- []
-
-
-Underfull \hbox (badness 1755) in paragraph at lines 191--191
-[]|\OT1/ptm/m/n/10 Strong API man-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-[]|\OT1/ptm/m/n/10 Higher li-cens-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/ptm/m/n/10 costs, re-quires
- []
-
-
-Underfull \hbox (badness 5316) in paragraph at lines 191--191
-\OT1/ptm/m/n/10 ex-per-tise in API
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-[]|\OT1/ptm/m/n/10 Low-code in-te-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/ptm/m/n/10 gra-tion, drag-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/ptm/m/n/10 and-drop UI,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 191--191
-\OT1/ptm/m/n/10 AI-powered au-
- []
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 191--191
-\OT1/ptm/m/n/10 de-ploy-ment, scal-
- []
-
-
-Underfull \hbox (badness 5939) in paragraph at lines 191--191
-[]|\OT1/ptm/m/n/10 Limited real-time
- []
-
-
 
 [22]
 
@@ -1054,482 +1031,458 @@ Underfull \hbox (badness 5939) in paragraph at lines 191--191
 [25]
 
 [26]
-
-[27]
-
-[28]
-
-[29]
-
-[30]
-<Chapter1_Introduction/Pictures/Saleforce_Quaterly_Revenue.png, id=1308, 1897.0875pt x 943.525pt>
+<Chapter1_Introduction/Pictures/Saleforce_Quaterly_Revenue.png, id=1288, 1897.0875pt x 943.525pt>
 File: Chapter1_Introduction/Pictures/Saleforce_Quaterly_Revenue.png Graphic file (type png)
 <use Chapter1_Introduction/Pictures/Saleforce_Quaterly_Revenue.png>
 Package pdftex.def Info: Chapter1_Introduction/Pictures/Saleforce_Quaterly_Revenue.png  used on input line 464.
-(pdftex.def)             Requested size: 320.7207pt x 159.5045pt.
+(pdftex.def)             Requested size: 362.37569pt x 180.22182pt.
 
 
-[31 <./Chapter1_Introduction/Pictures/Saleforce_Quaterly_Revenue.png>]
+[27 <./Chapter1_Introduction/Pictures/Saleforce_Quaterly_Revenue.png>]
 
-[32]
+[28]
 
-[33]
-
-[34])
+[29])
 \openout2 = `Chapter3/Chapter3.aux'.
 
  (./Chapter3/Chapter3.tex
 Chapter 3.
 
 
-[35
+[30
 
 
 
 
 ]
+
+[31]
+
+[32]
+
+[33]
+
+[34]
+
+[35]
 
 [36]
 
 [37]
 
-[38]
-
-[39]
-
-[40]
-
-[41]
-
-[42]
-
-[43]
-
-[44])
+[38])
 \openout2 = `Chapter4/Chapter4.aux'.
 
  (./Chapter4/Chapter4.tex
 Chapter 4.
-<Chapter4/Pictures/Arct_ov.jpg, id=1455, 1755.55875pt x 554.07pt>
+<Chapter4/Pictures/Arct_ov.jpg, id=1427, 1755.55875pt x 554.07pt>
 File: Chapter4/Pictures/Arct_ov.jpg Graphic file (type jpg)
 <use Chapter4/Pictures/Arct_ov.jpg>
 Package pdftex.def Info: Chapter4/Pictures/Arct_ov.jpg  used on input line 16.
-(pdftex.def)             Requested size: 320.7207pt x 101.21626pt.
+(pdftex.def)             Requested size: 362.37569pt x 114.36288pt.
 
 
-[45
+[39
 
 
 
 
  <./Chapter4/Pictures/Arct_ov.jpg>]
-<Chapter4/Pictures/s4hana.png, id=1460, 453.19313pt x 342.5297pt>
+<Chapter4/Pictures/s4hana.png, id=1432, 453.19313pt x 342.5297pt>
 File: Chapter4/Pictures/s4hana.png Graphic file (type png)
 <use Chapter4/Pictures/s4hana.png>
 Package pdftex.def Info: Chapter4/Pictures/s4hana.png  used on input line 35.
-(pdftex.def)             Requested size: 320.7207pt x 242.40334pt.
-<Chapter4/Pictures/integrationsuite.png, id=1462, 1921.1775pt x 995.21812pt>
+(pdftex.def)             Requested size: 362.37569pt x 273.88823pt.
+<Chapter4/Pictures/integrationsuite.png, id=1434, 1921.1775pt x 995.21812pt>
 File: Chapter4/Pictures/integrationsuite.png Graphic file (type png)
 <use Chapter4/Pictures/integrationsuite.png>
 Package pdftex.def Info: Chapter4/Pictures/integrationsuite.png  used on input line 48.
-(pdftex.def)             Requested size: 320.7207pt x 166.13249pt.
+(pdftex.def)             Requested size: 362.37569pt x 187.7115pt.
 
 
-[46 <./Chapter4/Pictures/s4hana.png>]
-<Chapter4/Pictures/salesforce.png, id=1469, 1921.1775pt x 995.21812pt>
+[40 <./Chapter4/Pictures/s4hana.png>]
+<Chapter4/Pictures/salesforce.png, id=1441, 1921.1775pt x 995.21812pt>
 File: Chapter4/Pictures/salesforce.png Graphic file (type png)
 <use Chapter4/Pictures/salesforce.png>
 Package pdftex.def Info: Chapter4/Pictures/salesforce.png  used on input line 64.
-(pdftex.def)             Requested size: 320.7207pt x 166.13249pt.
+(pdftex.def)             Requested size: 362.37569pt x 187.7115pt.
 
 
-[47 <./Chapter4/Pictures/integrationsuite.png> <./Chapter4/Pictures/salesforce.png>]
+[41 <./Chapter4/Pictures/integrationsuite.png> <./Chapter4/Pictures/salesforce.png>]
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 84.
  (c:/texlive/2025/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-<Chapter4/Pictures/integrationrole.png, id=1477, 1266.98344pt x 374.90062pt>
+<Chapter4/Pictures/integrationrole.png, id=1449, 1266.98344pt x 374.90062pt>
 File: Chapter4/Pictures/integrationrole.png Graphic file (type png)
 <use Chapter4/Pictures/integrationrole.png>
 Package pdftex.def Info: Chapter4/Pictures/integrationrole.png  used on input line 89.
-(pdftex.def)             Requested size: 320.7207pt x 94.89763pt.
+(pdftex.def)             Requested size: 362.37569pt x 107.22534pt.
 
 
-[48 <./Chapter4/Pictures/integrationrole.png>]
+[42 <./Chapter4/Pictures/integrationrole.png>]
 
-[49]
+[43]
 
-[50]
-<Chapter4/Pictures/s4hana_role.png, id=1497, 451.6875pt x 343.2825pt>
+[44]
+<Chapter4/Pictures/s4hana_role.png, id=1474, 451.6875pt x 343.2825pt>
 File: Chapter4/Pictures/s4hana_role.png Graphic file (type png)
 <use Chapter4/Pictures/s4hana_role.png>
 Package pdftex.def Info: Chapter4/Pictures/s4hana_role.png  used on input line 203.
-(pdftex.def)             Requested size: 320.7207pt x 243.76369pt.
+(pdftex.def)             Requested size: 362.37569pt x 275.42255pt.
 
 
-[51]
+[45 <./Chapter4/Pictures/s4hana_role.png>]
 
-[52 <./Chapter4/Pictures/s4hana_role.png>]
+[46]
 
-[53]
-
-[54]
-
-[55]
-<Chapter4/Pictures/Setup.png, id=1551, 353.82187pt x 285.31593pt>
+[47]
+<Chapter4/Pictures/Setup.png, id=1507, 353.82187pt x 285.31593pt>
 File: Chapter4/Pictures/Setup.png Graphic file (type png)
 <use Chapter4/Pictures/Setup.png>
 Package pdftex.def Info: Chapter4/Pictures/Setup.png  used on input line 347.
-(pdftex.def)             Requested size: 320.7207pt x 258.62787pt.
-<Chapter4/Pictures/con_app.png, id=1552, 359.84438pt x 172.39406pt>
+(pdftex.def)             Requested size: 362.37569pt x 292.21997pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Chapter4/Pictures/con_app.png, id=1508, 359.84438pt x 172.39406pt>
 File: Chapter4/Pictures/con_app.png Graphic file (type png)
 <use Chapter4/Pictures/con_app.png>
 Package pdftex.def Info: Chapter4/Pictures/con_app.png  used on input line 354.
-(pdftex.def)             Requested size: 320.7207pt x 153.6617pt.
-
+(pdftex.def)             Requested size: 362.37569pt x 173.61945pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Chapter4/Pictures/Connectedapp.png, id=1553, 1921.1775pt x 995.21812pt>
+<Chapter4/Pictures/Connectedapp.png, id=1509, 1921.1775pt x 995.21812pt>
 File: Chapter4/Pictures/Connectedapp.png Graphic file (type png)
 <use Chapter4/Pictures/Connectedapp.png>
 Package pdftex.def Info: Chapter4/Pictures/Connectedapp.png  used on input line 365.
-(pdftex.def)             Requested size: 320.7207pt x 166.13249pt.
+(pdftex.def)             Requested size: 362.37569pt x 187.7115pt.
+
+
+[48]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 
-[56 <./Chapter4/Pictures/Setup.png>]
-<Chapter4/Pictures/API.png, id=1564, 950.04938pt x 699.36281pt>
+[49 <./Chapter4/Pictures/Setup.png> <./Chapter4/Pictures/con_app.png>]
+<Chapter4/Pictures/API.png, id=1533, 950.04938pt x 699.36281pt>
 File: Chapter4/Pictures/API.png Graphic file (type png)
 <use Chapter4/Pictures/API.png>
 Package pdftex.def Info: Chapter4/Pictures/API.png  used on input line 393.
-(pdftex.def)             Requested size: 320.7207pt x 236.09412pt.
+(pdftex.def)             Requested size: 362.37569pt x 266.75307pt.
 
 
-[57 <./Chapter4/Pictures/con_app.png> <./Chapter4/Pictures/Connectedapp.png>]
-<Chapter4/Pictures/fieldsetup.png, id=1572, 1266.98344pt x 657.95813pt>
+[50 <./Chapter4/Pictures/Connectedapp.png> <./Chapter4/Pictures/API.png>]
+<Chapter4/Pictures/fieldsetup.png, id=1541, 1266.98344pt x 657.95813pt>
 File: Chapter4/Pictures/fieldsetup.png Graphic file (type png)
 <use Chapter4/Pictures/fieldsetup.png>
 Package pdftex.def Info: Chapter4/Pictures/fieldsetup.png  used on input line 419.
-(pdftex.def)             Requested size: 320.7207pt x 166.54724pt.
-
-
-[58 <./Chapter4/Pictures/API.png>]
-<Chapter4/Pictures/fieldlen.png, id=1582, 1556.81625pt x 906.38625pt>
+(pdftex.def)             Requested size: 362.37569pt x 188.18263pt.
+<Chapter4/Pictures/fieldlen.png, id=1542, 1556.81625pt x 906.38625pt>
 File: Chapter4/Pictures/fieldlen.png Graphic file (type png)
 <use Chapter4/Pictures/fieldlen.png>
 Package pdftex.def Info: Chapter4/Pictures/fieldlen.png  used on input line 441.
-(pdftex.def)             Requested size: 320.7207pt x 186.72318pt.
+(pdftex.def)             Requested size: 362.37569pt x 210.96774pt.
 
 
-[59 <./Chapter4/Pictures/fieldsetup.png> <./Chapter4/Pictures/fieldlen.png>]
-<Chapter4/Pictures/ref.png, id=1593, 1254.93843pt x 740.7675pt>
+[51 <./Chapter4/Pictures/fieldsetup.png>]
+<Chapter4/Pictures/ref.png, id=1555, 1254.93843pt x 740.7675pt>
 File: Chapter4/Pictures/ref.png Graphic file (type png)
 <use Chapter4/Pictures/ref.png>
 Package pdftex.def Info: Chapter4/Pictures/ref.png  used on input line 454.
-(pdftex.def)             Requested size: 320.7207pt x 189.31708pt.
+(pdftex.def)             Requested size: 362.37569pt x 213.9015pt.
 
 
-[60 <./Chapter4/Pictures/ref.png>]
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[61]
-<Chapter4/Pictures/iflow.png, id=1615, 1265.47781pt x 650.43pt>
+
+
+[52 <./Chapter4/Pictures/fieldlen.png> <./Chapter4/Pictures/ref.png>]
+
+[53]
+<Chapter4/Pictures/iflow.png, id=1575, 1265.47781pt x 650.43pt>
 File: Chapter4/Pictures/iflow.png Graphic file (type png)
 <use Chapter4/Pictures/iflow.png>
 Package pdftex.def Info: Chapter4/Pictures/iflow.png  used on input line 552.
-(pdftex.def)             Requested size: 320.7207pt x 164.84016pt.
+(pdftex.def)             Requested size: 362.37569pt x 186.24785pt.
 
 
-[62 <./Chapter4/Pictures/iflow.png>]
-<Chapter4/Pictures/keys_certi.png, id=1626, 1903.86281pt x 633.11531pt>
+[54]
+<Chapter4/Pictures/keys_certi.png, id=1587, 1903.86281pt x 633.11531pt>
 File: Chapter4/Pictures/keys_certi.png Graphic file (type png)
 <use Chapter4/Pictures/keys_certi.png>
 Package pdftex.def Info: Chapter4/Pictures/keys_certi.png  used on input line 570.
-(pdftex.def)             Requested size: 320.7207pt x 106.65245pt.
-<Chapter4/Pictures/UserCred.png, id=1627, 1919.67188pt x 356.83313pt>
+(pdftex.def)             Requested size: 362.37569pt x 120.50568pt.
+<Chapter4/Pictures/UserCred.png, id=1588, 1919.67188pt x 356.83313pt>
 File: Chapter4/Pictures/UserCred.png Graphic file (type png)
 <use Chapter4/Pictures/UserCred.png>
 Package pdftex.def Info: Chapter4/Pictures/UserCred.png  used on input line 578.
-(pdftex.def)             Requested size: 320.7207pt x 59.61542pt.
+(pdftex.def)             Requested size: 362.37569pt x 67.35796pt.
 
 
-[63 <./Chapter4/Pictures/keys_certi.png> <./Chapter4/Pictures/UserCred.png>]
-<Chapter4/Pictures/Configureiflow.png, id=1639, 285.31593pt x 234.8775pt>
+[55 <./Chapter4/Pictures/iflow.png> <./Chapter4/Pictures/keys_certi.png> <./Chapter4/Pictures/UserCred.png>]
+<Chapter4/Pictures/Configureiflow.png, id=1600, 285.31593pt x 234.8775pt>
 File: Chapter4/Pictures/Configureiflow.png Graphic file (type png)
 <use Chapter4/Pictures/Configureiflow.png>
 Package pdftex.def Info: Chapter4/Pictures/Configureiflow.png  used on input line 607.
-(pdftex.def)             Requested size: 320.7207pt x 264.02509pt.
-<Chapter4/Pictures/Schedule.png, id=1640, 1135.24126pt x 320.69812pt>
+(pdftex.def)             Requested size: 362.37569pt x 298.3162pt.
+
+
+[56 <./Chapter4/Pictures/Configureiflow.png>]
+<Chapter4/Pictures/Schedule.png, id=1610, 1135.24126pt x 320.69812pt>
 File: Chapter4/Pictures/Schedule.png Graphic file (type png)
 <use Chapter4/Pictures/Schedule.png>
 Package pdftex.def Info: Chapter4/Pictures/Schedule.png  used on input line 625.
-(pdftex.def)             Requested size: 320.7207pt x 90.60228pt.
+(pdftex.def)             Requested size: 362.37569pt x 102.36613pt.
 
-
-[64 <./Chapter4/Pictures/Configureiflow.png>]
-Overfull \hbox (66.36952pt too wide) in paragraph at lines 634--635
+Overfull \hbox (14.30098pt too wide) in paragraph at lines 634--635
 \OT1/pcr/m/n/10.95 https://hostname:port/sap/opu/odata/sap/API[]BUSINESS[]PARTNER\OT1/ptm/m/n/10.95 ).  
  []
 
-<Chapter4/Pictures/RecieverS4.png, id=1648, 1106.63437pt x 445.665pt>
+<Chapter4/Pictures/RecieverS4.png, id=1611, 1106.63437pt x 445.665pt>
 File: Chapter4/Pictures/RecieverS4.png Graphic file (type png)
 <use Chapter4/Pictures/RecieverS4.png>
 Package pdftex.def Info: Chapter4/Pictures/RecieverS4.png  used on input line 644.
-(pdftex.def)             Requested size: 320.7207pt x 129.15793pt.
-<Chapter4/Pictures/RecieverSF.png, id=1649, 1203.7472pt x 443.40656pt>
+(pdftex.def)             Requested size: 362.37569pt x 145.93425pt.
+
+
+[57 <./Chapter4/Pictures/Schedule.png> <./Chapter4/Pictures/RecieverS4.png>]
+<Chapter4/Pictures/RecieverSF.png, id=1620, 1203.7472pt x 443.40656pt>
 File: Chapter4/Pictures/RecieverSF.png Graphic file (type png)
 <use Chapter4/Pictures/RecieverSF.png>
 Package pdftex.def Info: Chapter4/Pictures/RecieverSF.png  used on input line 662.
-(pdftex.def)             Requested size: 320.7207pt x 118.13815pt.
-
-
-[65 <./Chapter4/Pictures/Schedule.png> <./Chapter4/Pictures/RecieverS4.png>]
-<Chapter4/Pictures/More.png, id=1658, 1105.88156pt x 362.10281pt>
+(pdftex.def)             Requested size: 362.37569pt x 133.48306pt.
+<Chapter4/Pictures/More.png, id=1621, 1105.88156pt x 362.10281pt>
 File: Chapter4/Pictures/More.png Graphic file (type png)
 <use Chapter4/Pictures/More.png>
 Package pdftex.def Info: Chapter4/Pictures/More.png  used on input line 682.
-(pdftex.def)             Requested size: 320.7207pt x 105.01263pt.
-<Chapter4/Pictures/savedeploy.png, id=1659, 421.575pt x 301.8778pt>
+(pdftex.def)             Requested size: 362.37569pt x 118.64893pt.
+
+
+[58 <./Chapter4/Pictures/RecieverSF.png> <./Chapter4/Pictures/More.png>]
+<Chapter4/Pictures/savedeploy.png, id=1631, 421.575pt x 301.8778pt>
 File: Chapter4/Pictures/savedeploy.png Graphic file (type png)
 <use Chapter4/Pictures/savedeploy.png>
 Package pdftex.def Info: Chapter4/Pictures/savedeploy.png  used on input line 696.
-(pdftex.def)             Requested size: 320.7207pt x 229.66443pt.
+(pdftex.def)             Requested size: 362.37569pt x 259.49008pt.
 
 
-[66 <./Chapter4/Pictures/RecieverSF.png> <./Chapter4/Pictures/More.png>]
-
-[67 <./Chapter4/Pictures/savedeploy.png>])
+[59 <./Chapter4/Pictures/savedeploy.png>])
 \openout2 = `Chapter5/Chapter5.aux'.
 
  (./Chapter5/Chapter5.tex
 Chapter 5.
-<Chapter5/Pictures/BP_Tcode.png, id=1674, 957.5775pt x 598.48593pt>
+<Chapter5/Pictures/BP_Tcode.png, id=1637, 957.5775pt x 598.48593pt>
 File: Chapter5/Pictures/BP_Tcode.png Graphic file (type png)
 <use Chapter5/Pictures/BP_Tcode.png>
 Package pdftex.def Info: Chapter5/Pictures/BP_Tcode.png  used on input line 24.
-(pdftex.def)             Requested size: 320.7207pt x 200.45065pt.
+(pdftex.def)             Requested size: 362.37569pt x 226.4864pt.
 
 
-[68
+[60
 
 
 
 
 ]
-<Chapter5/Pictures/BP_Role.png, id=1681, 957.5775pt x 599.23875pt>
+<Chapter5/Pictures/BP_Role.png, id=1644, 957.5775pt x 599.23875pt>
 File: Chapter5/Pictures/BP_Role.png Graphic file (type png)
 <use Chapter5/Pictures/BP_Role.png>
 Package pdftex.def Info: Chapter5/Pictures/BP_Role.png  used on input line 47.
-(pdftex.def)             Requested size: 320.7207pt x 200.70279pt.
+(pdftex.def)             Requested size: 362.37569pt x 226.7713pt.
 
 
-[69 <./Chapter5/Pictures/BP_Tcode.png> <./Chapter5/Pictures/BP_Role.png>]
-<Chapter5/Pictures/BP_generated.png, id=1692, 955.31906pt x 597.73312pt>
+[61 <./Chapter5/Pictures/BP_Tcode.png> <./Chapter5/Pictures/BP_Role.png>]
+<Chapter5/Pictures/BP_generated.png, id=1656, 955.31906pt x 597.73312pt>
 File: Chapter5/Pictures/BP_generated.png Graphic file (type png)
 <use Chapter5/Pictures/BP_generated.png>
 Package pdftex.def Info: Chapter5/Pictures/BP_generated.png  used on input line 66.
-(pdftex.def)             Requested size: 320.7207pt x 200.66367pt.
+(pdftex.def)             Requested size: 362.37569pt x 226.73051pt.
 
 
-[70 <./Chapter5/Pictures/BP_generated.png>]
-<Chapter5/Pictures/CPI_Locate.png, id=1700, 956.82469pt x 599.23875pt>
+[62 <./Chapter5/Pictures/BP_generated.png>]
+<Chapter5/Pictures/CPI_Locate.png, id=1665, 956.82469pt x 599.23875pt>
 File: Chapter5/Pictures/CPI_Locate.png Graphic file (type png)
 <use Chapter5/Pictures/CPI_Locate.png>
 Package pdftex.def Info: Chapter5/Pictures/CPI_Locate.png  used on input line 103.
-(pdftex.def)             Requested size: 320.7207pt x 200.85823pt.
-<Chapter5/Pictures/CPI_Mon.png, id=1701, 958.3303pt x 599.99156pt>
+(pdftex.def)             Requested size: 362.37569pt x 226.94502pt.
+<Chapter5/Pictures/CPI_Mon.png, id=1666, 958.3303pt x 599.99156pt>
 File: Chapter5/Pictures/CPI_Mon.png Graphic file (type png)
 <use Chapter5/Pictures/CPI_Mon.png>
 Package pdftex.def Info: Chapter5/Pictures/CPI_Mon.png  used on input line 124.
-(pdftex.def)             Requested size: 320.7207pt x 200.79929pt.
+(pdftex.def)             Requested size: 362.37569pt x 226.87308pt.
 
 
-[71 <./Chapter5/Pictures/CPI_Locate.png>]
-<Chapter5/Pictures/CPI_sucess.png, id=1713, 958.3303pt x 597.73312pt>
+[63 <./Chapter5/Pictures/CPI_Locate.png>]
+<Chapter5/Pictures/CPI_sucess.png, id=1677, 958.3303pt x 597.73312pt>
 File: Chapter5/Pictures/CPI_sucess.png Graphic file (type png)
 <use Chapter5/Pictures/CPI_sucess.png>
 Package pdftex.def Info: Chapter5/Pictures/CPI_sucess.png  used on input line 131.
-(pdftex.def)             Requested size: 320.7207pt x 200.04346pt.
-<Chapter5/Pictures/CPI_Verify.png, id=1714, 956.82469pt x 599.99156pt>
+(pdftex.def)             Requested size: 362.37569pt x 226.0191pt.
+<Chapter5/Pictures/CPI_Verify.png, id=1678, 956.82469pt x 599.99156pt>
 File: Chapter5/Pictures/CPI_Verify.png Graphic file (type png)
 <use Chapter5/Pictures/CPI_Verify.png>
 Package pdftex.def Info: Chapter5/Pictures/CPI_Verify.png  used on input line 145.
-(pdftex.def)             Requested size: 320.7207pt x 201.11057pt.
+(pdftex.def)             Requested size: 362.37569pt x 227.23013pt.
 
 
-[72 <./Chapter5/Pictures/CPI_Mon.png> <./Chapter5/Pictures/CPI_sucess.png>]
-<Chapter5/Pictures/SF_ACC_ED.png, id=1722, 954.56625pt x 442.65375pt>
+[64 <./Chapter5/Pictures/CPI_Mon.png> <./Chapter5/Pictures/CPI_sucess.png>]
+<Chapter5/Pictures/SF_ACC_ED.png, id=1686, 954.56625pt x 442.65375pt>
 File: Chapter5/Pictures/SF_ACC_ED.png Graphic file (type png)
 <use Chapter5/Pictures/SF_ACC_ED.png>
 Package pdftex.def Info: Chapter5/Pictures/SF_ACC_ED.png  used on input line 173.
-(pdftex.def)             Requested size: 320.7207pt x 148.72388pt.
+(pdftex.def)             Requested size: 362.37569pt x 168.0413pt.
 
 
-[73 <./Chapter5/Pictures/CPI_Verify.png>]
-<Chapter5/Pictures/SF_Fields_ED.png, id=1735, 953.06062pt x 439.6425pt>
+[65 <./Chapter5/Pictures/CPI_Verify.png>]
+<Chapter5/Pictures/SF_Fields_ED.png, id=1698, 953.06062pt x 439.6425pt>
 File: Chapter5/Pictures/SF_Fields_ED.png Graphic file (type png)
 <use Chapter5/Pictures/SF_Fields_ED.png>
 Package pdftex.def Info: Chapter5/Pictures/SF_Fields_ED.png  used on input line 184.
-(pdftex.def)             Requested size: 320.7207pt x 147.94695pt.
+(pdftex.def)             Requested size: 362.37569pt x 167.1665pt.
 
 
-[74 <./Chapter5/Pictures/SF_ACC_ED.png> <./Chapter5/Pictures/SF_Fields_ED.png>]
+[66 <./Chapter5/Pictures/SF_ACC_ED.png> <./Chapter5/Pictures/SF_Fields_ED.png>]
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 206.
-<Chapter5/Pictures/Fail_oauth.png, id=1745, 554.82281pt x 551.81157pt>
+<Chapter5/Pictures/Fail_oauth.png, id=1708, 554.82281pt x 551.81157pt>
 File: Chapter5/Pictures/Fail_oauth.png Graphic file (type png)
 <use Chapter5/Pictures/Fail_oauth.png>
 Package pdftex.def Info: Chapter5/Pictures/Fail_oauth.png  used on input line 233.
-(pdftex.def)             Requested size: 320.7207pt x 318.9816pt.
+(pdftex.def)             Requested size: 362.37569pt x 360.40778pt.
 
 
-[75{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-<Chapter5/Pictures/fail_error.png, id=1754, 1911.39093pt x 989.19562pt>
+[67{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
+<Chapter5/Pictures/fail_error.png, id=1718, 1911.39093pt x 989.19562pt>
 File: Chapter5/Pictures/fail_error.png Graphic file (type png)
 <use Chapter5/Pictures/fail_error.png>
 Package pdftex.def Info: Chapter5/Pictures/fail_error.png  used on input line 250.
-(pdftex.def)             Requested size: 320.7207pt x 165.97241pt.
+(pdftex.def)             Requested size: 362.37569pt x 187.52649pt.
 
 
-[76 <./Chapter5/Pictures/Fail_oauth.png>]
-<Chapter5/Pictures/Fail_log.png, id=1762, 1267.73625pt x 790.45313pt>
+[68 <./Chapter5/Pictures/Fail_oauth.png>]
+<Chapter5/Pictures/Fail_log.png, id=1725, 1267.73625pt x 790.45313pt>
 File: Chapter5/Pictures/Fail_log.png Graphic file (type png)
 <use Chapter5/Pictures/Fail_log.png>
 Package pdftex.def Info: Chapter5/Pictures/Fail_log.png  used on input line 264.
-(pdftex.def)             Requested size: 320.7207pt x 199.96475pt.
+(pdftex.def)             Requested size: 362.37569pt x 225.94485pt.
 LaTeX Info: Symbol \textrightarrow not provided by
             font family ptm in TS1 encoding.
             Default family used instead on input line 271.
 
 
-[77 <./Chapter5/Pictures/fail_error.png> <./Chapter5/Pictures/Fail_log.png>]
-<Chapter5/Pictures/Map_comp.png, id=1770, 1921.1775pt x 995.21812pt>
+[69 <./Chapter5/Pictures/fail_error.png> <./Chapter5/Pictures/Fail_log.png>]
+<Chapter5/Pictures/Map_comp.png, id=1733, 1921.1775pt x 995.21812pt>
 File: Chapter5/Pictures/Map_comp.png Graphic file (type png)
 <use Chapter5/Pictures/Map_comp.png>
 Package pdftex.def Info: Chapter5/Pictures/Map_comp.png  used on input line 297.
-(pdftex.def)             Requested size: 320.7207pt x 166.13249pt.
+(pdftex.def)             Requested size: 362.37569pt x 187.7115pt.
 
 
-[78]
+[70 <./Chapter5/Pictures/Map_comp.png>]
 
-[79 <./Chapter5/Pictures/Map_comp.png>]
-
-[80])
+[71])
 \openout2 = `Chapter6/Chapter6.aux'.
 
  (./Chapter6/Chapter6.tex
 Chapter 6.
 
 
-[81
+[72
 
+
+
+
+]
+
+[73]
+
+[74]
+
+[75]
+
+[76]
+
+[77]
+
+[78]
+
+[79]
+
+[80]) (./main.bbl
+Overfull \hbox (37.88663pt too wide) in paragraph at lines 70--74
+\OT1/pcr/m/n/10.95 tm-[]sap-[]and-[]sap-[]tm-[]transportation-[]management-[]evolution-[]and-[]architecture$[][]\OT1/ptm/m/n/10.95 , 
+ []
+
+
+
+[81
 
 
 
 ]
 
 [82]
-
-[83]
-
-[84]
-
-[85]
-
-[86]
-
-[87]
-
-[88]
-
-[89]
-
-[90]) (./main.bbl
-Overfull \hbox (17.18526pt too wide) in paragraph at lines 34--38
-\OT1/pcr/m/n/10.95 the-[]evolution-[]of-[]crm-[]a-[]journey-[]through-[]history-[]32303dda5960$[][]\OT1/ptm/m/n/10.95 , 
- []
-
-
-Overfull \hbox (89.95517pt too wide) in paragraph at lines 70--74
-\OT1/pcr/m/n/10.95 tm-[]sap-[]and-[]sap-[]tm-[]transportation-[]management-[]evolution-[]and-[]architecture$[][]\OT1/ptm/m/n/10.95 , 
- []
-
-
-
-[91
-
-
-
-]
-
-[92]
-Overfull \hbox (44.46523pt too wide) in paragraph at lines 214--218
-\OT1/pcr/m/n/10.95 enhancing-[]sales-[]efficiency-[]why-[]it-[]matters-[]and-[]how-[]to-[]measure-[]it$[][]\OT1/ptm/m/n/10.95 , 
- []
-
-
-
-[93]
-Overfull \hbox (130.37512pt too wide) in paragraph at lines 256--260
+Overfull \hbox (78.30658pt too wide) in paragraph at lines 256--260
 \OT1/pcr/m/n/10.95 why-[]sap-[]btp-[]is-[]the-[]smarter-[]choice-[]for-[]modernizing-[]your-[]integration-[]strategy/$[][]\OT1/ptm/m/n/10.95 , 
  []
 
 
-Overfull \hbox (97.02516pt too wide) in paragraph at lines 262--266
+Overfull \hbox (44.95662pt too wide) in paragraph at lines 262--266
 \OT1/pcr/m/n/10.95 integrating-[]sap-[]s-[]4hana-[]with-[]3rd-[]party-[]applications-[]and-[]legacy-[]systems/$[][]\OT1/ptm/m/n/10.95 , 
  []
 
 
-Overfull \hbox (26.58775pt too wide) in paragraph at lines 268--272
-\OT1/pcr/m/n/10.95 developing-[]business-[]processes-[]with-[]sap-[]process-[]orchestration / 
- []
 
+[83]
 
+[84])
 
-[94]
-
-[95])
-
-[96]
+[85]
 \openout2 = `Appendix/appendix.aux'.
 
  (./Appendix/appendix.tex
 Chapter 7.
-<Appendix/images/GetS4.png, id=1936, 1315.91624pt x 733.99219pt>
+<Appendix/images/GetS4.png, id=1885, 1315.91624pt x 733.99219pt>
 File: Appendix/images/GetS4.png Graphic file (type png)
 <use Appendix/images/GetS4.png>
 Package pdftex.def Info: Appendix/images/GetS4.png  used on input line 15.
-(pdftex.def)             Requested size: 380.85315pt x 212.42668pt.
+(pdftex.def)             Requested size: 430.31812pt x 240.023pt.
 
 
-[97
+[86
 
 
  <./Appendix/images/GetS4.png>]
-<Appendix/images/QueryS4.png, id=1944, 1653.17625pt x 764.10469pt>
+<Appendix/images/QueryS4.png, id=1892, 1653.17625pt x 764.10469pt>
 File: Appendix/images/QueryS4.png Graphic file (type png)
 <use Appendix/images/QueryS4.png>
 Package pdftex.def Info: Appendix/images/QueryS4.png  used on input line 44.
-(pdftex.def)             Requested size: 380.85315pt x 176.03186pt.
+(pdftex.def)             Requested size: 430.31812pt x 198.89572pt.
 
 
-[98 <./Appendix/images/QueryS4.png>]
-<Appendix/images/SF_Rec.png, id=1951, 1378.39969pt x 748.29562pt>
+[87 <./Appendix/images/QueryS4.png>]
+<Appendix/images/SF_Rec.png, id=1899, 1378.39969pt x 748.29562pt>
 File: Appendix/images/SF_Rec.png Graphic file (type png)
 <use Appendix/images/SF_Rec.png>
 Package pdftex.def Info: Appendix/images/SF_Rec.png  used on input line 68.
-(pdftex.def)             Requested size: 380.85315pt x 206.74675pt.
-
-
-[99 <./Appendix/images/SF_Rec.png>]
-<Appendix/images/SF_API.png, id=1958, 1241.38782pt x 415.5525pt>
+(pdftex.def)             Requested size: 430.31812pt x 233.60202pt.
+<Appendix/images/SF_API.png, id=1900, 1241.38782pt x 415.5525pt>
 File: Appendix/images/SF_API.png Graphic file (type png)
 <use Appendix/images/SF_API.png>
 Package pdftex.def Info: Appendix/images/SF_API.png  used on input line 93.
-(pdftex.def)             Requested size: 380.85315pt x 127.48837pt.
+(pdftex.def)             Requested size: 430.31812pt x 144.04424pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+
+[88 <./Appendix/images/SF_Rec.png>]
 LaTeX Font Info:    Trying to load font information for TS1+pcr on input line 107.
  (c:/texlive/2025/texmf-dist/tex/latex/psnfss/ts1pcr.fd
 File: ts1pcr.fd 2001/06/04 font definitions for TS1/pcr.
@@ -1540,28 +1493,26 @@ File: omspcr.fd
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 107.
-
-
-[100 <./Appendix/images/SF_API.png>]
-<Appendix/images/Fail_QR.png, id=1967, 1129.21875pt x 1129.21875pt>
+<Appendix/images/Fail_QR.png, id=1909, 1129.21875pt x 1129.21875pt>
 File: Appendix/images/Fail_QR.png Graphic file (type png)
 <use Appendix/images/Fail_QR.png>
 Package pdftex.def Info: Appendix/images/Fail_QR.png  used on input line 139.
-(pdftex.def)             Requested size: 120.27103pt x 120.26866pt.
-<Appendix/images/Success_QR.png, id=1969, 1129.21875pt x 1129.21875pt>
-File: Appendix/images/Success_QR.png Graphic file (type png)
-<use Appendix/images/Success_QR.png>
-Package pdftex.def Info: Appendix/images/Success_QR.png  used on input line 161.
-(pdftex.def)             Requested size: 120.27103pt x 120.26866pt.
+(pdftex.def)             Requested size: 135.89174pt x 135.87947pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[101 <./Appendix/images/Fail_QR.png>])
+[89 <./Appendix/images/SF_API.png>]
+<Appendix/images/Success_QR.png, id=1917, 1129.21875pt x 1129.21875pt>
+File: Appendix/images/Success_QR.png Graphic file (type png)
+<use Appendix/images/Success_QR.png>
+Package pdftex.def Info: Appendix/images/Success_QR.png  used on input line 161.
+(pdftex.def)             Requested size: 135.89174pt x 135.87947pt.
 
-[102 <./Appendix/images/Success_QR.png>] (./main.aux (./Title/titlepage.aux) (./Front/Abstract.aux) (./Front/Acknowledgement.aux) (./Front/Acronyms.aux) (./Front/Symbols.aux) (./Chapter1_Introduction/Chapter1.aux) (./Chapter2/Chapter2.aux) (./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux) (./Chapter6/Chapter6.aux) (./Appendix/appendix.aux))
+
+[90 <./Appendix/images/Fail_QR.png> <./Appendix/images/Success_QR.png>]) (./main.aux (./Title/titlepage.aux) (./Front/Abstract.aux) (./Front/Acknowledgement.aux) (./Front/Acronyms.aux) (./Front/Symbols.aux) (./Chapter1_Introduction/Chapter1.aux) (./Chapter2/Chapter2.aux) (./Chapter3/Chapter3.aux) (./Chapter4/Chapter4.aux) (./Chapter5/Chapter5.aux) (./Chapter6/Chapter6.aux) (./Appendix/appendix.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -1570,18 +1521,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4B8EBD39CD09E4B06A258620F249FAF5;33064.
  ) 
 Here is how much of TeX's memory you used:
- 30657 strings out of 473189
- 597987 string characters out of 5719958
- 1008147 words of memory out of 5000000
+ 30645 strings out of 473189
+ 597900 string characters out of 5719958
+ 1009184 words of memory out of 5000000
  52749 multiletter control sequences out of 15000+600000
  601863 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,10n,101p,2398b,684s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,10n,101p,2398b,732s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (114 pages, 5785035 bytes).
+Output written on main.pdf (102 pages, 5776215 bytes).
 PDF statistics:
- 2145 PDF objects out of 2487 (max. 8388607)
- 1905 compressed objects within 20 object streams
- 593 named destinations out of 1000 (max. 500000)
+ 2085 PDF objects out of 2487 (max. 8388607)
+ 1858 compressed objects within 19 object streams
+ 581 named destinations out of 1000 (max. 500000)
  1300 words of extra memory for PDF output out of 10000 (max. 10000000)
 
